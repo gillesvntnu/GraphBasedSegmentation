@@ -21,14 +21,18 @@ displacement method architecture.
 
 
 ## Acknowledgements
-This work extends the architecture provided by 
+
+
+The code in this repository originates from the work:
+- G.Van De Vyver, S. Thomas, G. Ben-Yosef, S. H. Olaisen, H. Dalen, L. Løvstakken, and E. Smistad:
+“Towards Robust Cardiac Segmentation using Graph Convolutional Networks” in arXiv preprint arXiv:2310.01210, 2023, https://github.com/gillesvntnu/GCN_multistructure.git
+
+The above work extends the architecture provided by 
 - S. Thomas, A. Gilbert, and G. Ben-Yosef: “Light-weight spatio-temporal
 graphs for segmentation and ejection fraction prediction in cardiac
 ultrasound” in Medical Image Computing and Computer Assisted
 Intervention–MICCAI 2022: 25th International Conference, Singapore
 https://github.com/guybenyosef/EchoGraphs.git
-
-
 
 ## Contact
 For questions, please contact:
