@@ -4,7 +4,8 @@ This repository contains code for using graph based architectures for
 segmentation. The code is extracted as a modular entity and can be 
 used directly in PyTorch. The code is based on the work "
 [Towards Robust Cardiac Segmentation using Graph Convolutional Networks](
-https://arxiv.org/pdf/2310.01210v2.pdf)".
+https://arxiv.org/pdf/2310.01210v2.pdf)". The code in this repository contains 
+the isolated code for the arhictecture only, so you can insert it in any PyTorch framework.
 
 For the full framework used in the publication, see https://github.com/gillesvntnu/GCN_multistructure
 
