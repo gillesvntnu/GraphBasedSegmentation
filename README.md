@@ -52,9 +52,9 @@ of the epicardium (blue)
 <img src="./figures/displacement_method.png" alt="displacement_method.png" style="width:400px;"/>
 
 Example output of the displacement model (GCN_multi_displacement.py). 
-The output of the model are the x and y coordinates fo the inner keypoints plus the 
+The output of the model are the x and y coordinates of the inner keypoints plus the 
 normal displacement of the outer keypoints to the inner keypoints. The inner keypoints
-conist of the left ventricle (red) and left atrium (green), the outer keypoints conist
+consist of the left ventricle (red) and left atrium (green), the outer keypoints consist
 of the epicardium (blue).
 
 ## Acknowledgements
